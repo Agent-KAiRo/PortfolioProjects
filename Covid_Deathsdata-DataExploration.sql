@@ -1,3 +1,4 @@
+
 SELECT Location , date , total_cases , new_cases , total_deaths , population
 FROM PortfolioProjects..coviddeaths
 order by 1,2
