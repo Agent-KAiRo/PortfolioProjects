@@ -1,4 +1,4 @@
-
+/* This is my first project in SQL, I just tried to do apply basic Data Exploration techniques and use the resulting data to visualize in Tableau*/
 SELECT Location , date , total_cases , new_cases , total_deaths , population
 FROM PortfolioProjects..coviddeaths
 order by 1,2
