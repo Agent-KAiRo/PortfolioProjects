@@ -1,3 +1,4 @@
+/* I tried doing a Data Cleaning Project on SQL, So I downloaded Nashville City data from Kaggle and then performed some basic data cleaning. Open to feedback*/
 --Updating the Date Column
 SELECT SaleDate, CONVERT(Date, SaleDate)
 FROM PortfolioProjects..NashvilleHousing
